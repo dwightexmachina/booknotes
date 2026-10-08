@@ -4,6 +4,7 @@ import 'dart:io';
 import 'package:args/args.dart';
 import 'package:args/command_runner.dart';
 import 'package:booknotes/src/db.dart';
+import 'package:booknotes/src/export.dart';
 import 'package:booknotes/src/repo.dart';
 import 'package:booknotes/src/server.dart';
 import 'package:sqlite3/sqlite3.dart';
@@ -579,12 +580,51 @@ class ServeCommand extends BooknotesCommand {
   }
 }
 
+// ---------- export ----------
+
+class ExportCommand extends BooknotesCommand {
+  @override
+  final name = 'export';
+  @override
+  final description =
+      'Write a static JSON snapshot for the GitHub Pages build.';
+  ExportCommand() {
+    argParser.addOption('out',
+        help: 'Output directory (default: app/assets/data, searched from the '
+            'current directory and one level up).');
+  }
+
+  // Probe for the app directory, not the data directory: export creates the
+  // latter, so testing it would make the first run land wherever it was run.
+  String _defaultOut() {
+    for (final candidate in ['app', '../app']) {
+      if (Directory('$candidate/lib').existsSync()) {
+        return '$candidate/assets/data';
+      }
+    }
+    return 'app/assets/data';
+  }
+
+  @override
+  int run() {
+    final out = argResults!.option('out') ?? _defaultOut();
+    final count = exportStatic(db, out);
+    if (jsonMode) {
+      emitJson({'out': out, 'book_count': count});
+    } else {
+      stdout.writeln('Exported $count books to $out');
+    }
+    return 0;
+  }
+}
+
 Future<void> main(List<String> args) async {
   final runner = CommandRunner<int>(
       'booknotes', 'Local book-notes manager backed by SQLite.')
     ..addCommand(BookCommand())
     ..addCommand(NoteCommand())
-    ..addCommand(ServeCommand());
+    ..addCommand(ServeCommand())
+    ..addCommand(ExportCommand());
   runner.argParser
     ..addOption('db',
         help: 'SQLite database path '

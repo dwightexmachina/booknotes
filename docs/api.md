@@ -7,6 +7,11 @@ Every `/api/*` response is JSON with `Access-Control-Allow-Origin: *`.
 Any path outside `/api/*` serves the built Flutter web app from
 `app/build/web` (or a plain-text notice if no build exists).
 
+The GitHub Pages build has no server; it reads a static snapshot of these
+same shapes written by `booknotes export` — see [deploy.md](deploy.md). Keep
+the two in step: a change to a response shape here means a matching change to
+the export.
+
 ## GET /api/health
 
 ```json

@@ -18,6 +18,11 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  # Static snapshot written by `booknotes export`; read only by builds made
+  # with --dart-define=STATIC_DATA=true (GitHub Pages).
+  assets:
+    - assets/data/books.json
+    - assets/data/books/
   fonts:
     - family: Lora
       fonts:

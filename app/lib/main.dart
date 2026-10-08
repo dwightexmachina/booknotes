@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'api.dart';
 import 'models.dart';
+import 'reading_time.dart';
 import 'theme.dart';
 
 void main() => runApp(const BooknotesApp());
@@ -346,6 +347,8 @@ class _DetailPane extends StatelessWidget {
               _stat(p, '${book.noteCount}', 'NOTES'),
               const SizedBox(width: 36),
               _stat(p, fmtNum(book.wordCount), 'TOTAL WORDS'),
+              const SizedBox(width: 36),
+              _stat(p, formatReadingTime(book.wordCount), 'TIME APPROXIMATION'),
             ],
           ),
         ],

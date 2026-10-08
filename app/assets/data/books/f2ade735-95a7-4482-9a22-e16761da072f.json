@@ -1,0 +1,373 @@
+{
+  "id": "f2ade735-95a7-4482-9a22-e16761da072f",
+  "title": "Web of Debt",
+  "author": "Ellen Brown",
+  "publish_year": null,
+  "edition": null,
+  "created_at": "2026-09-16T22:54:21.968198Z",
+  "updated_at": "2026-09-16T22:54:21.968198Z",
+  "note_count": 36,
+  "word_count": 4392,
+  "notes": [
+    {
+      "id": "b4e9aee2-39a6-477e-a57f-0f1989c48cbb",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Basic Economics",
+      "body": "BASIC ECONOMICS: Most money comes from private commercial banks, who generate it via fractional reserve.  (The book gives estimates for the M1, M2 and M3 for 2005 that are very different from ChatGPT)\n\nFractional reserve goes back to goldsmiths (who held gold) in the 1600's.  Only 10-20% was needed to avoid bank runs.\n\nMost of the money (the non-M1/M2 portion of the M3) is created by non-bank finance institutions like pension funds, mutual funds, insurance companies etc.\n\nThe banking system is insidious because (as you mentioned) banks loan the principle, but its up to you to find the interest, which is unsustainable in a fixed pool of money, so it forces banks to continue to issue more loans and inflate.\n9:4\n",
+      "position": 1,
+      "word_count": 121,
+      "created_at": "2026-09-19T00:06:09.154361Z",
+      "updated_at": "2026-09-19T00:06:13.947738Z"
+    },
+    {
+      "id": "e02f9f42-e5e6-462a-971b-c8dc906e2b99",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "The Continental",
+      "body": "THE CONTINENTAL: Ben Franklin is a champion of paper money, claiming 1) it allows the local economy to grow in the absence of gold, and 2) it allows the government to be financed without taxation.\n\nIn 1750, King George II is annoyed that his holding in Colonial Scrip is inflating (specifically New England, which had poor monetary governance...I don't know why the King had a lot of holdings in New England), and orders the American printing presses to stop.  In 1764, Ben Franklin pleads the king to allow it, citing how much good it has done for NY and NJ.  But this, to the king, is a moot point; the point of the colonies is wealth extraction for England, not a high quality of life for the inhabitants.\n\nThe colonies are required to pay taxes in gold and silver, but can't.  This wreaks havoc on the economy, and the Americans go back to printing their own money.\n\nThe Continental Congress issues the Continental to finance the war, but lacks the power to tax.  The British counterfeit this currency, but it holds on and sustains America through the revolution.\n\nBy the end of the war, the Continental is badly inflated.  Merchants demand high prices in Continentals claiming it will be worthless after the war, and exchange them for specie or state money.  The Continental Congress did not have the authority to make this the the official currency, and taxation was out of the question (as we were fighting a war against taxation....this is one of the most immature reasons for the revolution I've ever heard).\n",
+      "position": 2,
+      "word_count": 264,
+      "created_at": "2026-09-19T00:04:43.939167Z",
+      "updated_at": "2026-09-19T00:06:13.947738Z"
+    },
+    {
+      "id": "5ae33f3b-ceda-4801-89db-e2edfc019565",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Hamilton",
+      "body": "HAMILTON: After the war, the Founding Fathers and the people have a bad impression of paper money.  Debts must be paid in specie, but this leads to economic chaos (namely Shay's rebellion).  \n\nCentral government is needed to stop the states from defecting, and assume their debts.  Article I gives congress the ability to coin and borrow money, but not print it, which is weird.\n\nHamilton's bank prints money (ostensibly backed by gold, though this is a bluff) and buys government bonds.  Had the government just printed its own money again, it would have been worn down by speculators as it did before.  Hamilton then sells shares of the bank to the wealthy to keep their interests tied to the bank (to Jefferson's chagrin).  The government owns 20% of the shares of the bank according to ChatGPT.\n\nWhile Hamilton's bank similar to the Bank of England (the very monster the colonists were fighting), it was smaller, had a short charter (20 years), and was partially owned by the US government.  (This reminds me of the criticism of the NSDAP for pursuing racial identity, the same thing they accused they accused the jews of doing)\n\nHamilton's goal was autarkic sovereignty: keeping the finance in-house so you could regulate a productive domestic base into existence (unlike the British system of free trade, which, because Britain had the only manufacturing base and was always on the happy end of trade imbalances, naturally favored Britain).\n\nOnce Hamilton leaves in 1795, Washington's administration sells its shares to British financiers.  Hamilton is pissed, and it also annoyed him when he learned that the colleagues of Aaron Burr (with whom he built a bank in NY) are planning on creating a Northern confederacy and splitting from the Union.\n\nHamilton supports Jefferson against Burr for the presidency, and dies trying to stop Aaron Burr's apparently treasonous career.\n\n\n----------------------------------\n\nThe chapter opens with a statement that there are three ways to conquer a country:  1) by force, 2) by religion and 3) by debt (IIRC Hudson said this about the American empire).  Britain failed #1 and now would move on to #3.\n",
+      "position": 3,
+      "word_count": 352,
+      "created_at": "2026-09-19T00:05:14.395005Z",
+      "updated_at": "2026-09-19T00:06:13.947738Z"
+    },
+    {
+      "id": "87a03449-7b57-4595-b073-96e56f1f3f2d",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "The First and Second US Banks",
+      "body": "The First Bank is chartered by Hamilton for 20 years, with a 20% stake by the government.  Jefferson is opposed (he incorrectly believed that paper money was the culprit, rather than the privacy of the bank...right cause, wrong reasons).  The charter ends during Madison's reign, and the war of 1812 breaks out immediately after.  The aftermath of this war requires a bank, and the Second US Bank (very similar to the first) is again chartered.\n\nThis begins the \"era of good feelings\" and I wonder about that title.\n\nJackson defeats the Second US Bank, and after it falls there is a recession, followed by relative banking anarchy until Lincoln.  State banks dominate this period.  (This was a huge period of expansion...I'm surprised that Polk was able to conquer the west and beat Mexico without a central bank).\n",
+      "position": 4,
+      "word_count": 137,
+      "created_at": "2026-09-24T00:44:31.088123Z",
+      "updated_at": "2026-09-24T00:44:31.088123Z"
+    },
+    {
+      "id": "62b5d8a4-55ff-4cae-96c2-16fcd773c78e",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Lincoln",
+      "body": "The Whig Party is created to oppose \"King\" Jackson, and it later splits along the lines of slavery.  A self-taught scrapper like Jackson, Lincoln joins the new abolitionist Republican party.\n\nHe finances the war with federal Greenbacks, which compete to a degree with state notes.  They are unpopular by the end of the war due to inflation (but not as inflated as the confederate money).\n",
+      "position": 5,
+      "word_count": 65,
+      "created_at": "2026-09-24T00:44:42.974826Z",
+      "updated_at": "2026-09-24T00:44:42.974826Z"
+    },
+    {
+      "id": "27301931-ab1c-4a5f-85ef-b03c87f60ec5",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Gilded Age Economics",
+      "body": "Irving Fischer's quantity theory of money (MV = PY) describes the cost of goods in terms of velocity.  Keynes, however, argued against this, saying that if there are more goods in a system that has more money, the prices will stay even as long as the money fits the supply.\n\nGuernsey was an English island that was in a deep depression in the early 1800's.  But a few interest-free loans to the area were able to stimulate the economy.  More good flourished, but prices didn't rise.\n\nBut generally when governments print their own money, they run afoul of coups, assassinations, etc.\n\nGrant signs the Resumption Act (effectively the gold standard) in 1875, and in 1886 corporations are given agency.  Farmers were crushed; owing lots of debt, deflation is murderous.  Banks, however, benefit from deflation.\n\nThis results in populist movements led by Jacob Coxey, a theosophist (optimistic, \"manifesting\" movement.  He leads demonstrations in DC and proposes public works projects, where the government pays people directly.  This sets a precendent that continues through the progressive era.\n",
+      "position": 6,
+      "word_count": 174,
+      "created_at": "2026-09-24T00:45:07.495110Z",
+      "updated_at": "2026-09-24T00:45:07.495110Z"
+    },
+    {
+      "id": "bfe3c11a-c11f-420a-956b-36932f848df9",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Robber Barons",
+      "body": "So named in 1934, Morgan, Rockefeller and Carnegie led the pack.  Carnegie welcomed competition; the others didn't.  They were able to consolidate a stranglehold over oil and finance.  Morgan was able to get away with it due to his apparent old WASP stock.  (Despite being a Rothschild man, Americans distrusted the Rothschilds).\n\nMorgan and Rockefeller were political rivals, but still connected via fianance.\n\nThe age of the automobile, which created insane demand for finance and oil, solidified their power.  Tesla was unfortunately funded by Morgan, and was shut down for proposing free energy.\n",
+      "position": 7,
+      "word_count": 93,
+      "created_at": "2026-09-24T00:45:17.753249Z",
+      "updated_at": "2026-09-24T00:45:17.753249Z"
+    },
+    {
+      "id": "1afcb779-171b-4cda-9dc8-b78c9490bb4e",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "The Fed",
+      "body": "Morgan circulates rumors in 1907 that the bank is going to collapse, triggering a panic.  He personally imports gold from Europe to bail the bank out, quashing the panic.  The he sponsors the Aldrich bill, and backs Teddy Roosevelt to run in the Bull Moose party to elect Wilson.\n\nLegally the Fed is structured in such a way that the men behind the scenes are not exposed.  It is private and yields 6% dividends.\n\nThe BIS in Switzerland, in 1930, is the next victory, the Central Bank of Central Banks.\n\nAfter WW2, banking control moves from Europe to America, where it is (we think) handled by the Trilateral Commission, Bilderbergers, etc.\n\n------------------------------------\n\nThe income tax was a package deal.  Despite being wildly unpopular, and shut down many times through the Gilded Age (and declared unconstitutional by SCOTUS in 1895 Pollack vs Farmers Loan and Trust), they managed to pass a constitutional ammendment in 1913 along with the Fed bill.\n\nThere is some discrepancy as to the bill's validity as many of the states proposed changing the wording.  Sec. of State Philander Knox (a Morgan man) was able to ratify it....how the hell did they pull this off?\n",
+      "position": 8,
+      "word_count": 197,
+      "created_at": "2026-09-24T00:45:32.373319Z",
+      "updated_at": "2026-09-24T00:45:32.373319Z"
+    },
+    {
+      "id": "67e911c3-d1c5-443b-a192-5c76b5bcbd96",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "The Great Depression",
+      "body": "THE GREAT DEPRESSION: The Robber Barons convince the American public (who are very new to the stock market now) to buy stocks on margin.  There is evidence that the heads of the American and British banks colluded to plan the crash: having insiders pull out, then buy back after the collapse.\n\nFDR comes from minor robber baron money (banking and railroads) and is popular with both the public and big money.  The FDIC is designed for big banks (as opposed to the Jimmy Stewart bank from \"Its a wonderful life\") and begins the \"too big to fail\" thing.\n\nJacob Coxley returns with another public works plan.  A New Deal, except funded with greenbacks.  FDR likes the New Deal thing, but not the greenbacks thing, and so the depression doesn't end.\n",
+      "position": 9,
+      "word_count": 130,
+      "created_at": "2026-09-25T16:02:15.137439Z",
+      "updated_at": "2026-09-25T16:02:15.137439Z"
+    },
+    {
+      "id": "01deaf5b-96b5-41aa-91cf-afdd39812323",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 16 — FDR and Keynes",
+      "body": "(Ch 16) FDR AND KEYNES: The orthodox economic wisdom of the time (advanced by Irving Fischer) was that money doesn't matter.  It makes no difference how many dollars/coins are in the system, the system will adjust itself to the arbitrary number.  What matters is productivity, which isn't affected by money.\n\nKeynes flipped that; changing the amount of money in circulation DOES change the supply.  \"In circulation\" is important there, because he didn't advocate for money to be created, but rather that it should be borrowed with deficit spending.  (The idea that banking should be nationalized altogether was the position of the radical left at the time, which neither Keynes nor FDR sympathized with)\n\nThe depression stuck around though, because money was being drained in high federal taxes to pay interest on the debt.  He changed his tune during WWII when he advocated for an international \"Bancor\" fiat note to service the IMF, but that lost to the dollar in the end.\n\nAfter WWII, we all became Keynesians and accepted the dogma of liquidity injection...which caused the money supply and prices to go parabolic.\n\n------------------------------\n\nBritain removed the pound from the gold standard in 1931, causing the british to turn to the US (where Federal reserve notes were backed 40% by gold).  This led to a run on the gold reserves, which FDR halted in 1933 with the gold confiscation act.\n\n-------------------------------\n\nDespite being of wealthy stock, FDR did make some good on his populist promises.  The New Deal did create jobs and infrastructure, despite its funding source.  The plethora of coporate mergers that happened during the Roaring Twenties gave a small number of corporations incredible power in the 1930's.  Regulations like Glass-Steagal and the Securities Act regulated certain financial abuses.\n\nBig Business was so angry they hired Smedley Butler to assassinate FDR, but he refused.\n",
+      "position": 10,
+      "word_count": 305,
+      "created_at": "2026-09-25T16:02:38.470476Z",
+      "updated_at": "2026-09-25T16:02:38.470476Z"
+    },
+    {
+      "id": "8690a94c-b8b6-4b0c-8caa-6618b5b99e95",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 17",
+      "body": "Ch 17 was a simple (but good) illustration of how the money supply expands with loans and FR banking.",
+      "position": 11,
+      "word_count": 19,
+      "created_at": "2026-09-30T22:41:50.808268Z",
+      "updated_at": "2026-09-30T22:41:50.808268Z"
+    },
+    {
+      "id": "f667efd3-862f-434a-b0a8-9d0bfe320531",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 18 — The Fed's Playbook",
+      "body": "The Fed obscures a lot of its behavior by writing everything in \"Fedspeak\". \"Reserves\" aren't really reserves, and \"Open Market Operations\" are a source of creating money from nothing.\n\nThe repeal of Glass-Steagal (and according to ChatGPT Gramm-Leach-Biley of 1999) broke down barriers that made it easier for investment banks, like Goldman Sachs, to invest in private equity, which has wrought havoc in the 21st century (I'm surprised more people on both sides aren't angry about this).",
+      "position": 12,
+      "word_count": 77,
+      "created_at": "2026-09-30T22:42:09.035808Z",
+      "updated_at": "2026-09-30T22:42:09.035808Z"
+    },
+    {
+      "id": "743cb293-2da0-4ed3-b625-56ff987e53f5",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 19 — Bear Raids and Short Sales",
+      "body": "Author explains shorts, emphasizing that they are a form of counterfeiting. I don't understand this, and ChatGPT says she's interpreting this incorrectly.\n\nBear Raids are manipulative tactics at scale, they may or may not involve short selling.",
+      "position": 13,
+      "word_count": 37,
+      "created_at": "2026-09-30T22:42:50.013469Z",
+      "updated_at": "2026-09-30T22:42:50.013469Z"
+    },
+    {
+      "id": "6675cbca-90aa-4cbe-9ee7-a88f7d404fd0",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 20 — Hedge Funds",
+      "body": "The need for the wealthy to pool wealth and guarantee income drives the existence of derivatives (especially futures) which are speculative gambles.\n\nDerivatives introduce the ability to bet against a stock directly, which causes pathological behavior.\n\nAuthor talks about hedge funds and derivatives being dangerous at scale (and writes prophetically of the derivatives bubble in 2007), but the key problem AFAICT is trading on margin. Hedge funds have better access to these instruments, and the institutions incentivize too-big-to-fail behavior.\n\nNot sure how bad derivatives themselves are without the margin element and institutional moral hazard.",
+      "position": 14,
+      "word_count": 94,
+      "created_at": "2026-09-30T22:42:50.397149Z",
+      "updated_at": "2026-09-30T22:42:50.397149Z"
+    },
+    {
+      "id": "a7b35143-7b11-4687-aa90-630db214e2cb",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 21 — JFK and the Dollar Order",
+      "body": "JFK, a Hamiltonian who may have wanted to put us back on silver, was the last stand against the financial cartel. His foreign policy was designed to get America energy-independent and stop using the international monetary system to extract resources from the third world. He also directly defied the CIA by rejecting Operation Northwoods.\n\nDuring Vietnam, America accumulated a lot of debt. In 1965, Charles De Gaulle of France redeemed the French dollar holdings for gold, starting an international bank run. The IMF proposed issuing its own version of greenbacks as a stopgap measure in 1969, but it didn't stop Britain in 1971 from following France and demanding gold for its dollar holdings as well.\n\nWhen Nixon took office, he pulled America off the gold standard to avoid the chaos. A Saudi dollar deal in the early 1970's, followed by a quadrupling of oil prices forced every nation that needed oil (all of them) to keep using dollars.\n\nThe \"emerging markets\" of the third world became targets of private commercial banks, who preferred to lend to dictators. These dictators did not invest the money well but effectively enslaved the people. (Why isn't the left outraged about this?)\n\nThe expansion of credit in the 1970's threatened the dollar's status as the reserve currency, which was stopped by the Volcker shock in the early 1980's. This caused recession and third world bankruptcy.\n\nThe IMF used this to impose austerity on the third world to ensure timely debt payments.\n\nDollarization is further strengthened by speculative attacks. Countries become incentivized to peg their currency to the dollar, but if they do this incorrectly (practicing an equivalent of fractional reserve banking), speculators can issue a currency raid and destroy the currency. This results in capital flight, causing a crisis. This happened throughout the 90's, starting with Soros crashing the pound and a bunch of raids in Asia (Hong Kong, Thailand etc) that triggered monetary crises. China avoided this by being very strict with its pegging in 1998.",
+      "position": 15,
+      "word_count": 332,
+      "created_at": "2026-09-30T22:43:20.132031Z",
+      "updated_at": "2026-09-30T22:43:20.132031Z"
+    },
+    {
+      "id": "10e9b074-50bc-4795-b533-1d265eb62376",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 21 — Importer of Last Resort",
+      "body": "Most countries need to accumulate dollar surpluses to they can invest in exports, but that is dependent on there being an importer.\n\nAmericans, being the only country that can issue dollars, serves a different purpose: the importer of last resort. Keeping the dollar strong means ensuring that Americans are global consumers running a negative trade balance, lest another Hoover-esque flight to autarky trigger another surge of nationalism.",
+      "position": 16,
+      "word_count": 67,
+      "created_at": "2026-09-30T22:43:20.572069Z",
+      "updated_at": "2026-09-30T22:43:20.572069Z"
+    },
+    {
+      "id": "8430af10-fd01-47e9-9352-a7fcf3e56e23",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 22 — The Tequila Trap",
+      "body": "Mexico discovered oil in the early 20th century, and the Mexican constitution of 1917 nationalized natural resources. Britain and the US then boycotted Mexico for 40 years.\n\nIn the 1970's more oil was discovered, and the Mexican government went through aggressive industrialization. Mexico pegged its currency to the dollar, but this means it has to keep dollar reserves.\n\nIn the early 80's, speculators pulled dollars out of Mexico, leading to capital flight and lowered credit. The national banks return to private hands, but they are still Mexican-owned.\n\nNAFTA starts in 1994, and Mexico breaks with its Hamiltonian approach and embraces free trade. When Zedillo becomes president, he announces a free-floating currency. Speculators pull money out of mexico. Mexico tries to keep the peso afloat by borrowing dollars, but this just weakens faith in the peso (creating the Tequila Trap) and the peso collapses, as does the Mexican stock market, driving Mexico into depression. In 1995 the US bails our Mexico, most of the money going to investment banks.\n\nMexico suffers a lack of liquidity that keeps it in depression, like the US in the 1930's. As a result, America felt an invasion of illegal immigration from Mexico in the 90's an onward.",
+      "position": 17,
+      "word_count": 202,
+      "created_at": "2026-09-30T22:43:32.463133Z",
+      "updated_at": "2026-09-30T22:43:32.463133Z"
+    },
+    {
+      "id": "2bcd3836-c8f2-4cfb-8911-a92f5db34d02",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 23 — The Russian Revolution",
+      "body": "America became allies with Russia in the 1850's, supporting Russia in Crimea against England (and having the favor returned when the Russians supported the Union against the British backed confederacy in the Civil War). The alliance had to do with the banking system: the Tsar favored a national banking system much like the Yankees. This helped them escape the fate of the Chinese, Indians and Irish.\n\nLenin didn't overthrow the monarchy; that was done in the February revolution earlier that year in a peaceful coup of elected liberals.\n\nIn 1917 the bank was nationalized, but it was dissolved in 1920 as contradicting a \"moneyless economy\". In 1922, however, the soviets formed an international bank. Wall Street was happy about this until Lenin died in 1924 and instead of Trotsky, Stalin came in and nationalized the bank again. The disillusioned Trotskyites became the Neocons.\n\nHowever, Stalin didn't do the whole market pricing thing, so it collapsed. In 1989, Russia got an independent central bank, and \"shock therapy\" was miserable. IMF bailouts went to speculators, not the Russian people.\n2",
+      "position": 18,
+      "word_count": 178,
+      "created_at": "2026-09-30T22:43:44.162061Z",
+      "updated_at": "2026-09-30T22:43:44.162061Z"
+    },
+    {
+      "id": "7e7bd04b-bfd9-4b34-a651-4bbff9884679",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 24 — The Third Reich",
+      "body": "Hitler learns about fiat money when he is assigned by German intelligence to spy on the NSDAP, who developed their financial ideas from theorists who learned about the American Greenback movement.\n\nGerman hyperinflation, like all hyperinflations, comes from (according to Michael Hudson) the foreign exchange markets. Governments print money like crazy to pay off foreign debts. (Abroad, this terrifies Americans and bolsters support for the gold standard).\n\nHitler fires Hjalmar Schacht as head of the Reichbank when he refuses to print money. The economy is saved in two years. International trade is solved with direct barter.\n2",
+      "position": 19,
+      "word_count": 97,
+      "created_at": "2026-09-30T22:43:56.152332Z",
+      "updated_at": "2026-09-30T22:43:56.152332Z"
+    },
+    {
+      "id": "9ff48222-cd08-40a0-b8c1-a88930435345",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 25 — Hyperinflation Examples",
+      "body": "Examples of famous hyperinflation (Russia 1989, Yugoslavia 1990's, Argentina 1980's, Zimbabwe 2006) are not mere cases of governments going wild with the money printer, but are all due to debts owed to foreign exchange markets.\n\nThe Yugoslavia example is interesting. It was propped up by the US to buffer against the Soviet Union, but when the USSR fell, Yugoslavia had to fall as well (Heartland theory). Apparently it was doing Nazi Germany good with its own currency.",
+      "position": 20,
+      "word_count": 77,
+      "created_at": "2026-09-30T22:44:14.276407Z",
+      "updated_at": "2026-09-30T22:44:14.276407Z"
+    },
+    {
+      "id": "1e5c8eb0-1945-4f59-b853-22c4c6dbf8e6",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 26",
+      "body": "Japan sees the damage being done to Chine via free trade in the Opium wars and closes its borders...but the Americans show up and force them. Other East Asian countries suffer under the IMF",
+      "position": 21,
+      "word_count": 34,
+      "created_at": "2026-09-30T22:44:23.374366Z",
+      "updated_at": "2026-09-30T22:44:23.374366Z"
+    },
+    {
+      "id": "4d548b36-0cd5-4d12-a384-4d6a0bcbad39",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 27 — The PRC",
+      "body": "Napoleon calls China the sleeping giant, and it's best not to wake it (!!)\n\nThe Chinese Republic (WW1-1949) operates under a private bank, but the PRC uses a government bank, based on principles learned by Abraham Lincoln. China is boycotted and forced to trade with the communist bloc.\n\nSomehow, when China opened in 1978 under Deng, the banking system remained national/government. It made some other kind of deal that resulted in some, but not much, national debt when it came to free trade, but the People's Bank of China remained sovereign.",
+      "position": 22,
+      "word_count": 91,
+      "created_at": "2026-09-30T22:44:33.908888Z",
+      "updated_at": "2026-09-30T22:44:33.908888Z"
+    },
+    {
+      "id": "626bb3a1-8ec1-47f2-8de4-c8a8965c2631",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 28 — India",
+      "body": "INDIA: Since independence, India was running on a legacy private banking system installed by the British.  Indira Gandhi in 1969 began a wave of nationalizations, such that most of the large private banks became public.\n\nThis hit India hard in the 1970's when the cost of oil quadrupled and had to be purchased in dollars.  Nationalization of the banks continued nonetheless.\n\nIn the 90's, GATT became the WTO, which was more strict in forcing the laws of its countries to conform to WTO policies.\n",
+      "position": 23,
+      "word_count": 84,
+      "created_at": "2026-10-06T22:29:34.844993Z",
+      "updated_at": "2026-10-06T22:29:34.844993Z"
+    },
+    {
+      "id": "e169c2c5-68ec-4259-b823-427643da88ea",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 31 — Fannie Mae",
+      "body": "FANNIE MAE: Stagflation (price inflation without economic growth) is created by pumping up the economy with loan money during a time when people cannot afford to pay back the loans.  We encountered that in the 70's, and our solution created another problem.\n\nBefore Volcker, FNMA would buy mortgages from lenders and make money on the spread.  These were FRM's.  The Volcker shock made FNMA's practice unprofitable, because it had to borrow at high interest rates to buy low interest rate FRM's.  Its Federal privilege allowed it special abilities.  FNMA looked for more creative ways to stay afloat, namely ARM's and pooling assets into derivatives, casino-ifying the mortgage market.\n\nWhen Volcker returned interest rates to normal, it continued its new, wilder, riskier model, leading up to the 2008 crisis.\n",
+      "position": 24,
+      "word_count": 128,
+      "created_at": "2026-10-06T22:31:17.395951Z",
+      "updated_at": "2026-10-06T22:31:17.395951Z"
+    },
+    {
+      "id": "aae7ac6c-46d6-4b1c-81c7-fd22570f8c76",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 32",
+      "body": "Between derivatives and the level of entrenchment of the private financial sector into our government and economy, the debt spider is both A) capable of manipulating the economy to avoid catastrophes and B) obligated to do so because of the debt-based money system (new debt must continually be created to avoid deflation)\n\nThe goal is to milk the host as much as possible without destroying it.\n",
+      "position": 25,
+      "word_count": 66,
+      "created_at": "2026-10-06T22:31:35.042188Z",
+      "updated_at": "2026-10-06T22:31:35.042188Z"
+    },
+    {
+      "id": "1a0673f1-f8d7-4588-a423-9cef39e8ce56",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 33 — PPT",
+      "body": "The stock market is able to rebound from what would otherwise be a collapse because of a few new systems:\n\nPPT:  a government coalition created by Reagan in response to the 1987 crash.  Because so many high-ranking Goldman Sachs people work for the government in high positions, there is incredible collusion between these two, making GS a deeply intertwined part of PPT.  PPT is immune to investigation and can use insider trading and media manipulation, among others.\n\nESF and CMRPG are also involved.\n\nThe government/banking complex can induce people to give up their property by lowering interest rates, pushing them to invest in the stock market (which is better than CD's or bonds).\n\n---------------------\n\nMost US control has been under the command of David Rockefeller, who lost his control with age (early 00's).  As his grip slipped, control over the system moved from the US back to CoL, especially via the Cayman Islands (a British protectorate where most hedge funds are located)\n",
+      "position": 26,
+      "word_count": 162,
+      "created_at": "2026-10-06T22:31:51.522506Z",
+      "updated_at": "2026-10-06T22:31:51.522506Z"
+    },
+    {
+      "id": "a4af910b-e16b-4470-811f-449b18ab74ee",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 34",
+      "body": "Since 1913, moral hazards and heavy mergers have pushed banks from competitive commercial lenders to consolidated investment banks that extract fees and leverage economies of scale.\n",
+      "position": 27,
+      "word_count": 26,
+      "created_at": "2026-10-06T22:32:03.533909Z",
+      "updated_at": "2026-10-06T22:32:03.533909Z"
+    },
+    {
+      "id": "ba7025c7-54fe-4480-b707-b9b4b1e49c9f",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 35 — Competing Currencies",
+      "body": "The Robber Barons were guided by Theosophy, which was an optimistic \"manifesting\" kind of belief system popular in 19th century America.  This led to manic monopolizing.\n\nIn 2000, in Guardiagrele, Italy, a benefactor was able to issue his own currency to jump-start a depressed town.  It worked (albeit at cost to him), showing that competitive currencies can work.\n\nIn 1998, a NPO called NORFED tried to reestablish silver money by issuing the Liberty coin.  In 2007, with $20 million in circulation, they were raided by the Feds and all their assets were confiscated.\n",
+      "position": 28,
+      "word_count": 93,
+      "created_at": "2026-10-06T22:32:43.841474Z",
+      "updated_at": "2026-10-06T22:32:43.841474Z"
+    },
+    {
+      "id": "8c9828a7-3794-499a-9eaf-561cdbe7f68e",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 36 — Local Currencies",
+      "body": "In Weimar Germany, Argentina, and Ithaca NY, local currencies arose either because of hyperinflation or because of principle.\n\nOther parallel systems like frequent flier miles and online currencies exist (this was written just before Bitcoin, I wonder what EHB thinks about that).\n\nInterest needs to exist in the monetary system because it provides and incentive for lending, and also discourages speculation (which happens in the absence of interest/lending).\n",
+      "position": 29,
+      "word_count": 68,
+      "created_at": "2026-10-06T22:32:52.844445Z",
+      "updated_at": "2026-10-06T22:32:52.844445Z"
+    },
+    {
+      "id": "9b59fc58-1b48-401c-8202-62bdc7f9f445",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 37 — The Gold Standard",
+      "body": "1896 election is McKinley's goldbugs (winner) vs WJ Bryan's greenbackers.\n\nGold was touted as \"honest money\", but it has an inherently dishonest quality: it needs fractional reserve banking to continue existing with interest.\n\nIf the money supply is 100% gold, and bankers lend out 10% of it at 6% interest compounded annually, in 40 years the bankers have all the money.  This means that either -\nA - the money must become dishonest (FR/Fiat) to keep the interest scheme alive, or\nB - interest must be banned (as it was in the Middle Ages)\n\nThe popular idea of gold's strength comes from the quantity theory of money which suggest that the prices will just lower and the fixed supply of gold will not matter.  In practice, deflationary spirals exist.\n",
+      "position": 30,
+      "word_count": 129,
+      "created_at": "2026-10-06T22:33:05.700860Z",
+      "updated_at": "2026-10-06T22:33:05.700860Z"
+    },
+    {
+      "id": "584eac3a-9773-4b88-97d3-53845c95f784",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 38 — Caribbean Banks",
+      "body": "The US faced a serious problem in 2005.  Iran was threatening to sell oil in Euros and China and Japan (largest purchasers of US debt) stopped buying US securities.\n\nBonds instead got sold to \"Caribbean banks,\" which were officially hedge funds.  This was impossible because losses were immense and no one in the hedge fund community reported such losses.  The Fed was, in fact, buying its own debt back through proxies.\n",
+      "position": 31,
+      "word_count": 71,
+      "created_at": "2026-10-06T22:33:24.684774Z",
+      "updated_at": "2026-10-06T22:33:24.684774Z"
+    },
+    {
+      "id": "a4e9383d-e262-4e21-860d-d5329b3e05f7",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 39 — Liquidating the Debt",
+      "body": "The US is able to liquidate its debt in nearly all forms by printing money, and it began taking that seriously in 2005.  The M3 stopped being reported at this time.\n\nLiquidation of debt, be it Social Security, foreign bond holders, etc has little effect and is unlikely to cause hyperinflation (despite the warnings of  economists and politicians)\n",
+      "position": 32,
+      "word_count": 58,
+      "created_at": "2026-10-06T22:33:25.132713Z",
+      "updated_at": "2026-10-06T22:33:25.132713Z"
+    },
+    {
+      "id": "58baf204-2489-4b40-b7b7-50638eeeb4d8",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 40 — Helicopter Ben",
+      "body": "HELICOPTER BEN: In 2002, Bernanke was concerned about deflation, and proposed a method of government financing that is unlike the previous method of borrowing from the Fed via Open Market Operations.\n\nCooperation between government and the bank allows for the creation of \"helicopter money\", which is effectively interest-free money that is directly injected into the economy.\n\nIt was derided as \"helicopter money\" because giving power to a corrupt congress is likely to cause inflation.\n",
+      "position": 33,
+      "word_count": 74,
+      "created_at": "2026-10-06T22:33:54.171287Z",
+      "updated_at": "2026-10-06T22:33:54.171287Z"
+    },
+    {
+      "id": "534bed6e-b51e-4f9b-ae7c-4578f56a029a",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 41 — Nationalization Solutions",
+      "body": "NATIONALIZATION SOLUTIONS: I didn't understand this.  EHB says that the Bank of England was nationalized after WW2, but it didn't matter because only 3% of the money comes from central banks while the remaining 97% comes from private lending.  I think this is like the M1 vs the M2/M3.  \n\nHow they are able to lend without gratuitous use of newly created money, I don't know.\n\nVarious solutions have been proposed, including 100% reserve.  This causes problems because high reserves threaten the existence of banks....Japan in 1988 was the world's biggest creditor, and the BIS raised its reserve requirements from 6% to 8%, shutting it down and forcing nationalization.\n\nThe ideal system is a network of public banks; all private models run into the same problems.\n\nHow to regulate the rate of monetary expansion is another issue.  Milton Friedman suggested a flat rate of 4%, but the economy isn't linear.\n\nEHB recommend the LETS system, which generates money via transactions, rather than first needing the bank to get involved.  ChatGPT says this is a modern implementation of the medieval tally-stick (which EHB never mentioned in the book, sadly).\n",
+      "position": 34,
+      "word_count": 187,
+      "created_at": "2026-10-07T21:37:47.821528Z",
+      "updated_at": "2026-10-07T21:37:47.821528Z"
+    },
+    {
+      "id": "3ba70acf-c112-4874-b6c3-49139068258a",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 42 — Public LETS",
+      "body": "EHB elaborates on her proposed public LETS system.  \n\nShe mentions that Iran is focused on keeping their banking system public (in acordance with Islamic law), which may be a part of the escalating conflict.\n",
+      "position": 35,
+      "word_count": 34,
+      "created_at": "2026-10-07T21:37:56.194475Z",
+      "updated_at": "2026-10-07T21:37:56.194475Z"
+    },
+    {
+      "id": "08d286d1-ae53-4735-bf78-cacafd01c076",
+      "book_id": "f2ade735-95a7-4482-9a22-e16761da072f",
+      "section": "Ch. 43-47 — Proposals (skimmed)",
+      "body": "I skimmed the end of the book.  It's all proposals, like forgiving third world debt, having public kumbaya circles, etc.\n\nCh 47 is worth your reading: she recaps all of the sources of the modern web of debt in bullet-point form, then lays out her manifesto in bullet points after, which is a country (and world) that is largely free of debt and taxes.  Good bang for your buck.\n",
+      "position": 36,
+      "word_count": 69,
+      "created_at": "2026-10-07T21:40:34.933041Z",
+      "updated_at": "2026-10-07T21:40:34.933041Z"
+    }
+  ]
+}

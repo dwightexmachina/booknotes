@@ -15,6 +15,7 @@ without reading the source.
 | [cli.md](cli.md) | Complete CLI reference: every command, flag, exit code, JSON output |
 | [api.md](api.md) | The read-only HTTP JSON API served by `booknotes serve` |
 | [agents.md](agents.md) | Playbook for AI agents executing CLI commands non-interactively |
+| [deploy.md](deploy.md) | Publishing the web UI to GitHub Pages from a static snapshot |
 
 ## Quickstart
 
@@ -52,3 +53,6 @@ changing anything under `app/`, rebuild it:
 ```sh
 cd app && flutter build web --release
 ```
+
+The public site at <https://dwightexmachina.github.io/booknotes/> is built
+separately from a committed snapshot — see [deploy.md](deploy.md).

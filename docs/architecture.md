@@ -12,7 +12,8 @@ Browser ◀── booknotes serve (localhost:8080)
 ```
 
 - **CLI** (`cli/bin/booknotes.dart`) — the only write path. Talks to SQLite
-  directly via `package:sqlite3` (FFI). Subcommands: `book`, `note`, `serve`.
+  directly via `package:sqlite3` (FFI). Subcommands: `book`, `note`, `serve`,
+  `export`.
 - **Server** (`booknotes serve`, `cli/lib/src/server.dart`) — a `shelf` HTTP
   server bound to localhost only. Serves the read-only JSON API under `/api/*`
   and the built Flutter web app for every other path. It holds its own SQLite
@@ -22,6 +23,11 @@ Browser ◀── booknotes serve (localhost:8080)
 - **Web UI** (`app/`, Flutter web) — a read-only viewer. Fetches
   `/api/books` and `/api/books/<id>` from its own origin. It never touches
   SQLite and performs no writes.
+- **Static snapshot** (`booknotes export`, `cli/lib/src/export.dart`) — dumps
+  the same JSON shapes to `app/assets/data/` so a serverless host can run the
+  UI. Builds made with `--dart-define=STATIC_DATA=true` read those assets
+  instead of the API; that is how GitHub Pages works
+  ([deploy.md](deploy.md)).
 
 ## Design decisions
 
@@ -44,10 +50,13 @@ booknotes/
 │   └── lib/src/
 │       ├── db.dart             path resolution, connection, schema DDL
 │       ├── repo.dart           all queries & mutations; word-count rule
-│       └── server.dart         shelf routes + static hosting
+│       ├── server.dart         shelf routes + static hosting
+│       └── export.dart         static JSON snapshot for GitHub Pages
 ├── app/                  Flutter web viewer (package name "booknotes_app")
 │   ├── lib/                    main.dart, api.dart, models.dart, theme.dart
+│   ├── assets/data/            committed snapshot for the Pages build
 │   └── build/web/              prebuilt bundle hosted by `booknotes serve`
+├── .github/workflows/    deploy.yml — builds & publishes to GitHub Pages
 └── docs/                 this documentation (canonical)
 ```
 

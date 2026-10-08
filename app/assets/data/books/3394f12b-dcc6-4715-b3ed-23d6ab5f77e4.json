@@ -1,0 +1,293 @@
+{
+  "id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+  "title": "Money Changes Everything: How Finance Made Civilization Possible",
+  "author": "William N. Goetzmann",
+  "publish_year": 2016,
+  "edition": null,
+  "created_at": "2026-09-16T20:50:47.882312Z",
+  "updated_at": "2026-09-16T20:50:47.882312Z",
+  "note_count": 28,
+  "word_count": 3621,
+  "notes": [
+    {
+      "id": "a3062a86-dec1-4f37-a29a-ba8c99da3b34",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Sumer",
+      "body": "Primitive, early mesopotamian, non-semitic. Seems to behave like a primitive, autarkic, agrarian economy, where goods are distributed via clay tokens representing that particular good (like food stamps). Language is very simple and probably doesn't abstract numbers fully yet (tribal languages today still don't).",
+      "position": 1,
+      "word_count": 43,
+      "created_at": "2026-09-16T20:53:15.320392Z",
+      "updated_at": "2026-09-16T20:53:15.320392Z"
+    },
+    {
+      "id": "5bf68209-6a9b-4ff4-ab2b-089abba8d44d",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Babylon (Hammurabi)",
+      "body": "Introduces basic credit systems and trade routes. Hammurabi's code introduces regulations for lending, which allow some form of private credit to exist. Credit systems are handled by private lenders, who are presumed to be powerful (and predatory), but are interrupted by debt-forgiveness plans by kings (as Hudson talks about). The relationship between the kings and lenders is not understood.\n\nGrain is intra-city currency, and silver is inter-city currency, the currency of the East. It's not found in Mesopotamia, so its assumed that the families running the caravan trades are very powerful (basically the Spacing Guild from Dune). They set up arrangements similar to Rockefeller's \"drawbacks\" to thwart competition.\n\nLittle changed between Hammurabi and the Persian empire; scripts from both periods are mutually intelligible and no real innovation takes place in this ~1200 year period. Athens is the next real breakthrough",
+      "position": 2,
+      "word_count": 140,
+      "created_at": "2026-09-16T20:53:15.768750Z",
+      "updated_at": "2026-09-16T20:53:15.768750Z"
+    },
+    {
+      "id": "d7a4eaaa-d394-4ecb-a0c0-20fe6cee4546",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Athens",
+      "body": "Babylon and Egypt were basically self-sufficient when it came to food (the important thing), and traded as an economic luxury.\n\nAthens, on the other hand, could not produce enough grain to feed its population, but produced olive oil and grapes which were luxury goods. (I wonder about fish, but the book didn't mention it). Thus it HAD to export its produce in order to import the food for the citizens.\n\nThis led to a demand for entrepreneurship (sailor import/exporters) on a level that Mesopotamia never saw. They needed to incentivize these risky ventures, which required coinage, regulations, contracts, proto-insurance, etc. Wealth became abstract, rather than land-based. This led to abstract thinking and individualism (and therefore philosophy), and was incentivized by democracy.\n\nSocrates was a big no-no to all of this, and wanted people to go back to the simpler, pre-money times.\n\nWhat's really surprising is that Athens succeeded for the reasons Zeihan would have said they'd fail: a lack of essential resources. They had to build a clever trading network in order to stay alive, and ran the Delian league in order to do it. (Has Zeihan ever talked about why Israel is so successful?)",
+      "position": 3,
+      "word_count": 195,
+      "created_at": "2026-09-16T20:54:25.520581Z",
+      "updated_at": "2026-09-16T20:54:25.520581Z"
+    },
+    {
+      "id": "75421fd0-8bbd-4078-95d3-1f03d5ab1082",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Rome",
+      "body": "Financial and Government interests are intertwined, because only the wealthiest patricians can serve in the Senate. Senators must have F-U money (in the form of landholding) to get in, as they are expected to provide bailouts when needed.\n\nThis is a proto-central bank; central banking is not a proper institution in Rome, it's just a government response to crises that arose.\n\nThe expansion of Rome after the Punic wars was mostly a private endeavor; Rome didn't have time to expand a proper government bureaucracy into the conquered mediterranean territories. These were holdings that fed into the pockets of corrupt senators (who were not allowed to participate in business directly, but it happened a lot after Carthage fell). Eventually, in the late Empire (3rd century) bureaucracy found its way in everywhere.\n\nCrises in the 3rd century were solved with currency devaluation, which led to the decline of banking.",
+      "position": 4,
+      "word_count": 147,
+      "created_at": "2026-09-16T20:57:10.456051Z",
+      "updated_at": "2026-09-16T20:57:10.456051Z"
+    },
+    {
+      "id": "b466cbd1-fbc5-4d54-9d0c-237159d0deb4",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "China",
+      "body": "Short intro chapter. China used money very early, invented paper money in the Yuan/Song period, and the government was more strongly involved in everything. (No surprise there)\n\nBonds, however, were a later arrival. The Italian city-states invented them during the renaissance to fight with each other, but China had no concept of them until the British invaded. The 19th century forced them to issue bonds (and do so on the international market, because there was no domestic demand).\n\nBonds are, according to Goetzmann, a claim on future taxes rather than past taxes.\n\n....so I was wondering: if bond markets are common, does that mean that we live in a world where all countries must now aggressively borrow from the future in order to survive?",
+      "position": 5,
+      "word_count": 124,
+      "created_at": "2026-09-16T20:57:38.678355Z",
+      "updated_at": "2026-09-16T20:57:38.678355Z"
+    },
+    {
+      "id": "4c0819b3-8cb3-492e-9205-52c34e468117",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "China",
+      "body": "Geographically, China lends itself toward large-scale enduring empires while Europe tends to get stuck in the Warring States period. This has a serious impact on their financial evolutions.\n\nEurope always used hard money, and its small states had to resort to borrowing via bonds. China, on the other hand, discovered fiat money early. (Traders in the Song dynasty started using redeemable paper notes, which got traded, which led to the fractional reserve issue, which led to the Emperor monopolizing note production).\n\nSo the Chinese Song, Yuan and Ming dynasties never had to finance with bonds; they just inflated whenever they needed it. This led to a kind of laziness and imprudence on the part of the governments while Europe's governments were bound to make good on their promises.\n\nOf course, when Marco Polo came back with tales of sovereigns printing money to be accepted on pain of death, European leaders were interested.",
+      "position": 6,
+      "word_count": 152,
+      "created_at": "2026-09-16T20:57:55.379042Z",
+      "updated_at": "2026-09-16T20:57:55.379042Z"
+    },
+    {
+      "id": "8cc002b9-b34c-4146-a66e-408ea8bd61e7",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Knights Templar",
+      "body": "The Catholic Church, in their attempt to make a road for pilgrims to Jerusalem (copying the Muslim Hajj, maybe?) created a non-profit org that allowed the safe transfer of metal wealth across long distanced. Pilgrims made deposits, got receipts, and could redeem them safely elsewhere.\n\nThis institution was well-liked, and received gifts, and became trusted enough for financing. Lending to kings becomes a standard practice in the 1100's into the 1200's. (First description of Templar banking that makes sense, this book is great).\n\nAs time passed and Crusades were lost, the reputation of the Templars worsened. They were seen as idol-worshipping homosexuals. Autocratic Philip IV, in debt and wanting more autonomy for France, expels the jews and murders the Templars. They are replaced formally with the Hospitallers.",
+      "position": 7,
+      "word_count": 127,
+      "created_at": "2026-09-16T20:59:08.754697Z",
+      "updated_at": "2026-09-16T20:59:08.754697Z"
+    },
+    {
+      "id": "c305c125-3c78-40ce-8d21-279fd2d3f288",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Venice",
+      "body": "Middle ages Italy is like ancient greece: warring mercantile city-states with colonies.\n\nIn 1172 (same time as the Templar's hey-day), a Venetian doge raises money with bonds (prestiti) for a raid on Byzantium. He comes back defeated and with a depleted fleet, and is murdered by his creditors.\n\nThe Church is very unhappy with the practice of usury. The Mendicant orders (Dominicans and Fransciscans) are founded in the early 1200's and are very anti-usury.\n\nThe loans are so revolutionary that they alter the way people perceive time itself. People become opportunistic. Time becomes money for the first time, whereas previously time is just the rising and falling of the sun daily and the eternal changing of the seasons. Serfs lived \"in time\", but the modern man was \"on time.\" Giant clocks became a thing.\n\nNothing on bimetallic standards, sadly.",
+      "position": 8,
+      "word_count": 139,
+      "created_at": "2026-09-16T20:59:29.125857Z",
+      "updated_at": "2026-09-16T20:59:29.125857Z"
+    },
+    {
+      "id": "fac46b71-1e18-4b3a-ba9c-d686906f9782",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Annuities",
+      "body": "The basics of lending, bonds and interest are worked out in the 1100's and 1200's by the Venetians, Templars, and Fibonnaci, which are enough to conquer feudalism and bring about the Renaissance.\n\nThe Renaissance brings the discovery of probability (originally for gambling), in the 1500's which gets developed in the early 1600's by Bernoulli and Pascal.\n\nIt is used by the new gunpowder monarchs to make annuities cost-effective, which I suspect may be the most evil aspect of finance as they incentivize the destruction of the family, leading to more atomisation and a stronger state. Less need to have kids when you have a pension. France used this heavily (this and the Templar massacre is helping me understand why Curt says France is the enemy of Europe).\n\nThe Chinese at this time were raising money via direct taxation and fell behind.\n\nI think this leads to the state of the socially irresponsible, government-dependent French peasant that de Tocqueville talked about in Ancien Regime, which led to totalitarianism. Seems to be what the French want.\n6:3",
+      "position": 9,
+      "word_count": 175,
+      "created_at": "2026-09-16T21:00:06.111860Z",
+      "updated_at": "2026-09-16T21:00:06.111860Z"
+    },
+    {
+      "id": "379556ff-2940-4bd8-b9cb-3a65b5e9ef00",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Shareholder Capitalism",
+      "body": "Goes back further than we think, typically when there is a project that needs large capital investment, particularly water mills. (This happened even in the Roman days in some form.). Middle Ages saw this behavior independently in Germans, Sweden etc.\n\nGenoa one-upped Venice around 1400 by creating a company held by the bondholders to manage the bonds being issued from the government.\n\nThe pattern in the West is that the government serves private interests whereas in China private interests serve the government.\n\nEIC and VOC in 1600 were not the first stock companies, but they were the biggest and they were a major source of modernization (limited liability, etc)\n\nInterestingly, he says that the Marxist/Maoist perception of society passing through discrete phases (Agrarian -> Feudalism -> Capitalism etc) is dead wrong. It's what people living in capitalist or socialist countries are inclined to believe (in the same way that Graeber and Hudson said that people in moneyed societies believe primitive man bartered). Instead capitalism should be thought of something that kinda comes and goes, and it can very much still disappear.",
+      "position": 10,
+      "word_count": 181,
+      "created_at": "2026-09-16T21:00:40.704525Z",
+      "updated_at": "2026-09-16T21:00:40.704525Z"
+    },
+    {
+      "id": "4faa2330-8ff3-4f71-ac52-664a6c1cf50b",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Enlightenment England",
+      "body": "England is invaded in 1688 by an army of German, Scandinavian and Dutch mercenaries in a giant fleet and conquered by William of Orange. The fact that this is still called \"The Glorious Revolution\" is baffling.\n\nThe Dutch conquering England brings Dutch commercial laws to Britannia, which leads to increased privatization and investment. It is unknown why the Industrial Revolution kicked off in England rather than the Netherlands.\n\nFinance now becomes a public affair and the culture changes. There is more stock-jobbing and hustling.\n\nDaniel Defoe (serial entrepreneur and author) proposes expanding joint-stock companies to create the South Sea Company, creating triangular trade. The South Sea Company took over Britain's debt, starting a precedent where private companies use of public infrastructure (British Navy, war of spanish succession) to aid their ventures.\n\nThe scale of this project is reflected in the distance of time (far future prospects). Because it is projected so far, the market price is free to become detached from reality. There is a giant bubble that bursts in 1720 (Isaac Newton, among others, lose a ton of money). This leads to the \"Bubble Act\", which requires government approval for certain ventures (effectively meaning that the government can decide which companies can and can't exist).",
+      "position": 11,
+      "word_count": 206,
+      "created_at": "2026-09-16T21:00:58.063064Z",
+      "updated_at": "2026-09-16T21:00:58.063064Z"
+    },
+    {
+      "id": "9f41dc44-b24b-4110-8fb6-c9ac4f9a8960",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Enlightenment France",
+      "body": "John Law, a Scottish bon vivant and math whiz, starts a house casino in Venice (now a center for arts and culture rather than finance). House casinos are novel because you need to know stats well to provide games like blackjack where the house has a permanent, but small, edge.\n\nWith his profits, he returns to Scotland with a proposal to change the currency system: rather than tying it to silver (whose price fluctuates up and down depending on availability), they would have a land-backed paper currency instead.\n\nScotland rejects him, so he goes to France and implements this system. He creates a company backed by the Louisiana Purchase, which isn't even mapped yet, so the actual value is speculative. He goes on to acquire most of France's colonial companies.\n\nTo gain trust in the system (to get people to give him their savings), the shares must be fully liquid, removing his governments' own capacity for regulation. This creates a bubble and burst, and John Law is persona non grata.\n\nIt seems like he had good intentions, but by this point joint-stock companies have become leviathans in their own right that people don't understand. And when they behave badly, the instinct of the people is to blame the scheming, rational minded elites.",
+      "position": 12,
+      "word_count": 212,
+      "created_at": "2026-09-16T21:01:11.374653Z",
+      "updated_at": "2026-09-16T21:01:11.374653Z"
+    },
+    {
+      "id": "6fe456b8-6280-482b-a8ab-0b07248938fb",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "The 1700's",
+      "body": "After the crash of 1720 (which only hurt big investors; unlike 1929 the common folk were not playing this game), Europe moved toward safer investments. Equities were out, and the innovation was in bundled securities, pioneered in Amsterdam.\n\nThe Dutch \"Eendragt Maakt Magt (strength in many)\" in 1774 is the first mutual fund. The denomination problem of bonds and stocks that kept small players out of the market is solved and lower classes have access to finance.",
+      "position": 13,
+      "word_count": 77,
+      "created_at": "2026-09-16T21:01:40.296250Z",
+      "updated_at": "2026-09-16T21:01:40.296250Z"
+    },
+    {
+      "id": "8b5e7ef0-68ff-4129-924e-40fbbeec0b23",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Colonial America",
+      "body": "In America, things are different. Triangular trade wasn't perfectly balanced and gold/silver outflowed from the colonies to Britain. Being specie-poor but land-rich, the colonies needed to issue their own currency.\n\nThe colonies used primarily land-backed currency like John Law did, but it generally worked better than it did in France. Pennsylvania had the best monetary governance, partially because the Quakers did a good job with monetary governance, and partially because of the peaceful geopolitics (New England was stuck financing wars...I still find it weird that they decided to settle in land that's just far worse than the Delaware Bay area.)\n\nOne of Ben Franklin's important contributions as a printer was coming up with anti-counterfeiting techniques (major problem) to help the PA monetary system....weird that I never learned that in school.\n\nAdam Smith thought land was much worse than specie due to illiquidity.\n\nThis really drove the colonies into a westward land-frenzy. The Ohio company and a bunch of others were set up in the early 1700's, by the predecessors of Washington, Jefferson, Franklin, etc.",
+      "position": 14,
+      "word_count": 174,
+      "created_at": "2026-09-16T21:01:40.741389Z",
+      "updated_at": "2026-09-16T21:01:40.741389Z"
+    },
+    {
+      "id": "dccf9388-f7b4-4a16-89cc-cc2d7830e2f4",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Pax Britannica",
+      "body": "London becomes the key financial player after Napoleon (author does not mention the rise to power, or the Rothschilds).\n\nMarx is a scathing critic of capitalism and predicts a death spiral. (Author mentions a lot of Marx's mechanisms, but doesn't mention the difference between Simple Interest and Compound Interest....Hudson's biggest point about Marx).\n\nMarx is also the first hermaneutical scholar of economics (meaning he looks at everything; beliefs, politics, family dynamics). Its ambitious, but not necessarily wrong IMO. Curt seems to be doing the same thing.\n\nIN 1866, about the same time as Kapital, the Universal Stock Exchange begins to outcompete the Stock Exchange of London. It's designed for speculation/faster trading (lower friction). It uses telegraphs, and accounts for multiple trades without requiring settlement immediately. This creates a more competitive trading environment over the Old Boys' Club.\n\nTHE DEMAND FOR RISK MINIMIZATION DRIVES GLOBALIZATION. That's my big take. To avoid tragic losses, you must balance your British bonds with Chinese bonds; overinvesting in your own country is risky. This fixes the 1720 problem. (I'd like to look at the correlations of personality traits with sovereigntists vs globalists, I suspect they stem from personality just like other political orientations.)\n\nIts creator, Lowenfield, touts it as a win for all classes, who can now participate in capitalism. Big counterpoint to Marx, as the proles can now reap rewards.\n\nThird world colonies become tyrannies. Their legal structures are incapable of providing the protections and incentives needed for capital investment, so their leaders allow the regulation of assets (like the Suez canal) to foreign law. Europe reaps most of the profits. The people get pissed.",
+      "position": 15,
+      "word_count": 271,
+      "created_at": "2026-09-16T21:02:07.250785Z",
+      "updated_at": "2026-09-16T21:02:07.250785Z"
+    },
+    {
+      "id": "147e5566-b31a-4a10-b2ab-0252f6e86214",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Qing China",
+      "body": "China gets hosed in the Opium wars. The government is forced to allow foreigners in and conduct trade (including trains) according to their own governance model.\n\nLate in the 19th century there is a cultural push to manufacture domestically. Local Chinese companies are financed only with and employ only Chinese labor. This creates a legal backlash against wealthy Chinese investors in foreign companies, interestingly.\n\nUltimately the government nationalizes all local businesses while remaining open to big foreign corporations. This costs them the Mandate of Heaven, and the Republic of China is formed.",
+      "position": 16,
+      "word_count": 92,
+      "created_at": "2026-09-16T21:02:34.074051Z",
+      "updated_at": "2026-09-16T21:02:34.074051Z"
+    },
+    {
+      "id": "e1317570-eb5d-4939-8f39-aaa57eaee953",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Russia",
+      "body": "Peter the Great implements the first stock exchange in early 1700's in St Petersburg, modeled after Amsterdam.\n\n19th century Russia proceeds like America (both countries relying on foreign capital to develop), but Russia is more volatile for geopolitical reasons.\n\nWWI is so volatile that in 1914 the NY stock exchange shuts down for a few months and the St Petersburg exchange for 3 years...it reopens just in time for the civil war, and ends with Lenin confiscating all assets.",
+      "position": 17,
+      "word_count": 79,
+      "created_at": "2026-09-16T21:02:48.747145Z",
+      "updated_at": "2026-09-16T21:02:48.747145Z"
+    },
+    {
+      "id": "cc0bcec3-525a-4946-8efd-4baa7da63604",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Keynes — Versailles",
+      "body": "In \"The Economic Consequences of Peace\", he attacks the world leaders (Lloyd George, Wilson, Clemenceau) as being petty and anti-German in their rapacious Treaty of Versailles, claiming it will not recover (it actually recovered better than Keynes expected)\n\nHe's a brilliant entrepreneur and investor. He invests in stocks rather than bonds (unconventional at that time), and tends to concentrate in a few stocks rather than diversify. He beats the market regularly.\n\nHe didn't see the crash of 1929 coming, however.",
+      "position": 18,
+      "word_count": 80,
+      "created_at": "2026-09-16T21:03:13.329191Z",
+      "updated_at": "2026-09-16T21:03:13.329191Z"
+    },
+    {
+      "id": "619ec8d7-891f-43f5-8d85-3bbd15271061",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Keynes — General Theory",
+      "body": "His Magnum Opus (General Theory) is written in the heart of the Great Depression (1936), and uses strong persuasive language like Marx does, especially in invoking disgust toward certain stereotypes (both attacked the miserly saver).\n\nIn it, he introduces the concept of EMOTION to market behavior (which has, until this point, been described by academics through equations and enlightened incentives...but this is economics after WWI and Dadaism). The economy is driven by \"animal spirits\" that must be harnessed. The government is to take a role in regulating public sentiment to control the market's highs and lows, keeping it in a state of sustained near-boom by keeping the public's perception of the future positive.\n\n(I genuinely can't tell if our leaders are even trying to do this today. Elon definitely is and Pippa is, but the GOP has little other than \"Golden Age\" to say. The messaging is awful.)",
+      "position": 19,
+      "word_count": 148,
+      "created_at": "2026-09-16T21:03:13.761031Z",
+      "updated_at": "2026-09-16T21:03:13.761031Z"
+    },
+    {
+      "id": "736e5028-26bd-4652-8c0a-f868ce46b698",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Keynes — Bretton Woods",
+      "body": "At Bretton Woods, he sits opposite American Harry Dexter White. Britain has lost standing compared to America, so now he is here to negotiate for Brittania.\n\nHis solution to Sovereign Debt (payment imbalances between countries, which often took the forms of one country holding the territory of another as collateral, or seizing revenues) was to create the IMF and regulate these discrepencies in the form of austerities, currency devaluations, etc. (author doesn't mention the veto power of the US that Hudson mentions).\n\nHis solution to financing large projects (formerly done by colonial host countries) is the World Bank. The author is critical of both the IMF and World Bank saying they haven't been effective, reduced sovereignty, and should be handled by incentive alignment rather than top-down power imposition.",
+      "position": 20,
+      "word_count": 128,
+      "created_at": "2026-09-16T21:03:14.225823Z",
+      "updated_at": "2026-09-16T21:03:14.225823Z"
+    },
+    {
+      "id": "e3a9d672-aa44-4926-8c4b-64be5fab8f84",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "1920's America",
+      "body": "Up to 1890, America is a net importer of capital (railroads during Lincoln's time were financed largely by Britain). From 1890-1917 capital is mostly domestic, and after WWI America becomes a creditor nation.\n\nThe failing of the gold standard and German hyperinflation in the 1920's changes the attitude of investing worldwide from bonds to stocks. This plays especially well in America, who are naturally speculative by their nature. Technological innovation favors stocks to bonds.\n\nEdgar Smith shows that reinvesting dividends into shares continuously will out-perform bonds. Investment trusts pool shares together, thereby reducing risk, become popular. Economist Irving Fischer is also a strong advocate of stocks, but ruins himself and his reputation in the crash.\n\n(Charles) Dow Theory, which analyzes stock behavior by looking at it in parts (primary: > 1 year, secondary: weeks/months, tertiary: daily noise) predicted the crash, and is the best school of thought at having done so.\n\nWe know after the fact that companies with more \"knowledge capital\" (patents) were more heavily invested in. However, when a market disruption delays development of an innovation, its equity drops rapidly, so an economy that is heavily dependent on innovation is volatile. (oh dear)",
+      "position": 21,
+      "word_count": 195,
+      "created_at": "2026-09-16T21:04:00.356904Z",
+      "updated_at": "2026-09-16T21:04:00.356904Z"
+    },
+    {
+      "id": "41e279e5-59bc-4852-a376-de7c6d251045",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Skyscraper Bonds",
+      "body": "The bond Americans love in the 1920's is the skyscraper bond. Real Estate Developers bypass banks by issuing bonds directly to investors; real estate is a sure, simple thing and the bonds will be paid predictably by rents. (This is pioneered in Chicago in 1909 by Strauss & Co, and by the 1920's it and two other bond houses in NYC, American Bond and Mortgage Company and GL Miller, dominate this market).\n\nThese bond-houses issue bonds optimistically, assuming full occupancy, etc. When they are unable to pay the full amounts they pay with the issue of new bonds, turning them into ponzi schemes. Strauss goes under in 1932 and is one of the first SEC investigations.",
+      "position": 22,
+      "word_count": 116,
+      "created_at": "2026-09-16T21:04:00.912342Z",
+      "updated_at": "2026-09-16T21:04:00.912342Z"
+    },
+    {
+      "id": "45e14586-6587-4a7a-9636-257dff71c307",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Data-Driven Investing (1930s)",
+      "body": "Punch card technology (the Hollerith machine) is a new innovation in the early 1930's that allows for basic spreadsheet/tabulation/aggregation functions (until then this was done by hand). This means that, until the 1930's, economists and investors were blind because there wasn't really any data. Finance finally starts becoming data-driven.\n\nGraham and Dodd's \"Security Analysis\" (1934) systematizes fundamental investing into a rigorous practice, establishing modern value investing (famously influencing Warren Buffett). The investing world begins to split into the systems (data/math-driven) vs non-systems camps. The new systems investor is a stoic, rigorous, rule-following, disagreeable man who is impervious to the madness of the crowd.",
+      "position": 23,
+      "word_count": 103,
+      "created_at": "2026-09-16T21:04:01.289602Z",
+      "updated_at": "2026-09-16T21:04:01.289602Z"
+    },
+    {
+      "id": "2625bf75-cc4d-4b99-8890-79852b545ef7",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "The New Deal",
+      "body": "Government pension funds are needed. LA Senator Huey Long pitches a proposal where taxes on the rich pay for pensions for those making below a certain amount. FDR overrules him with the shit-show we have now. Kind of reminds me of Obamacare. For some reason we can't have socialism, but we can have an expensive fraudulent fund that we're forced to pay into. The author agrees that it's short term thinking that drove social security in its current ridiculous trajectory.\n\nModern mutual fund companies are also created. Conflicts of interests like in Goldman Sachs draw attention.\n3:52 PM",
+      "position": 24,
+      "word_count": 98,
+      "created_at": "2026-09-16T21:05:14.839339Z",
+      "updated_at": "2026-09-16T21:05:14.839339Z"
+    },
+    {
+      "id": "dac75832-8157-4acb-bd09-99a076ed4b30",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Post War — Markowitz",
+      "body": "Data-driven techniques get taken to a new level in the 1950's when Harry Markowitz develops \"Operations Research\" (a field of study from wartime) to optimal investment portfolios.\n\nStocks and bonds are grouped together by their correlation (or lack thereof) to reduce \"beta\" (or risk).\n\nThis new kind of investor, armed with linear algebra and computer programs, replaces the stoic fundamental analyst.",
+      "position": 25,
+      "word_count": 61,
+      "created_at": "2026-09-16T21:05:43.985912Z",
+      "updated_at": "2026-09-16T21:05:43.985912Z"
+    },
+    {
+      "id": "969fcab6-5287-4cff-9c01-ae2ae72d4283",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Post War — CAPM & Indexes",
+      "body": "Once Markowitz's model is commonplace in the 1960's, CAPM is used for asset valuation. It builds upon Markowitz' model for asset valuation and is used by investment bankers and equity analysts.\n\nIndexes become a common way to invest in the 1970's because you can just invest in a diversified block and cut the middle man.",
+      "position": 26,
+      "word_count": 55,
+      "created_at": "2026-09-16T21:05:44.372308Z",
+      "updated_at": "2026-09-16T21:05:44.372308Z"
+    },
+    {
+      "id": "6c504e3e-d53c-4a5a-87d9-2d8a1cc414ca",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Post War — Sovereign Wealth Funds",
+      "body": "Norway's discovery of oil in 1969 leads their government to finance pensions with a Sovereign fund. Governments (like Russia, China, Korea, Singapore) now just invest in stocks directly.\n\nThis is a weird moral dilemma for America, because of our demographics and different relationship with government (we are supposed to be individuals). It also changes the incentives of the market when the government is investing.",
+      "position": 27,
+      "word_count": 64,
+      "created_at": "2026-09-16T21:05:44.748993Z",
+      "updated_at": "2026-09-16T21:05:44.748993Z"
+    },
+    {
+      "id": "f0a8f53d-0312-4d5e-bc46-6ccef17c107c",
+      "book_id": "3394f12b-dcc6-4715-b3ed-23d6ab5f77e4",
+      "section": "Conclusion",
+      "body": "The book ends with a Zeihan-like concern for aging demographics, and a prediction that FinTech is the future (book was written in 2016...I was in NYC at the time and everyone in finance was trying to get into FinTech).",
+      "position": 28,
+      "word_count": 39,
+      "created_at": "2026-09-16T21:05:45.139827Z",
+      "updated_at": "2026-09-16T21:05:45.139827Z"
+    }
+  ]
+}

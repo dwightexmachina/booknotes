@@ -136,6 +136,25 @@ on `http://localhost:<port>`, until Ctrl-C. `--web-root` defaults to
 works from the repo root or from `cli/`). If no web build exists the API
 still runs and `/` explains how to build the UI.
 
+## export
+
+```sh
+booknotes export [--out <dir>]
+```
+
+Writes a static snapshot of the database for the GitHub Pages build (see
+[deploy.md](deploy.md)):
+
+```
+<dir>/books.json        same shape as GET /api/books
+<dir>/books/<id>.json   same shape as GET /api/books/<id>
+```
+
+`--out` defaults to `app/assets/data`, looked up from the current directory
+and one level up (so it works from the repo root or from `cli/`). The
+per-book directory is rewritten from scratch each run, so deleted books do
+not linger. With `--json`, prints `{"out": "...", "book_count": n}`.
+
 ## JSON output shapes
 
 With `--json`: mutations print the affected object after the change
